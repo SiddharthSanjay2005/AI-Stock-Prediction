@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment variables (API keys, secrets)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Database
+instance/
+*.db
+*.sqlite3
+
+# Models (large files)
+models/*.h5
+models/*.keras
+models/*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
