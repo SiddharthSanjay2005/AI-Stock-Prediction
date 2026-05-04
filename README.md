@@ -130,11 +130,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👨‍💻 Author:-
 Siddharth Sanjay
 GitHub: SiddharthSanjay2005
-Email: siddusanjay2005com
-
-
-🙏 Acknowledgments:-
-Yahoo Finance for free market data
-TensorFlow for the deep learning framework
-Chart.js for beautiful charts
-Flask for the web framework
+Email: siddusanjay2005@gmail.com
