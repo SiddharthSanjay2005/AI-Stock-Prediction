@@ -32,16 +32,16 @@ An intelligent stock market analysis platform using **LSTM neural networks** for
 ## 📸 Screenshots:-
 
 ### Dashboard:
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](static/screenshots/dashboard.png)
 
 ### AI Prediction:
-![Prediction](screenshots/prediction.png)
+![Prediction](static/screenshots/prediction.png)
 
 ### Insights:
-![Insights](screenshots/insights.png)
+![Insights](static/screenshots/insights.png)
 
 ### Stock Comparison:
-![Compare](screenshots/compare.png)
+![Compare](static/screenshots/compare.png)
 
 
 ## ⚡ Quick Start:-
